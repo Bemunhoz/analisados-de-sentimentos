@@ -1,1 +1,1 @@
-# analisados-de-sentimentos
+# analisador-de-sentimentos
